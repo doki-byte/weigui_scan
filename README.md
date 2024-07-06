@@ -5,7 +5,8 @@
 运行main.py即可  
 
 ![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/ab91ee5f-4df1-4bfc-97e9-c91a37e9f4db)
-![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/a97f69d7-8d22-446a-ac38-1c63236237db)
+![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/6cd74c9f-737d-4f51-b121-df2f4ce887a1)
+
 
 
 
