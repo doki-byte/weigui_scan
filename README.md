@@ -6,6 +6,7 @@
 
 ![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/ab91ee5f-4df1-4bfc-97e9-c91a37e9f4db)
 ![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/6cd74c9f-737d-4f51-b121-df2f4ce887a1)
+![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/fdf50e9c-08b9-45a5-8299-7f20df9bc369)
 
 
 
