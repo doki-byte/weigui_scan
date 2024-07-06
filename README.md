@@ -4,9 +4,8 @@
 
 运行main.py即可  
 
-![Alt text](./images/image.png)  
-
-![Alt text](./images/image1.png)
+![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/ab91ee5f-4df1-4bfc-97e9-c91a37e9f4db)
+![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/a2609622-6e75-443a-8ff2-ef238ef87a59)
 
 
 ### 脚本思路
@@ -19,9 +18,12 @@
 ### cookie设置
 如果一直备案查询失败
 修改icp_check里面的cookie_str字符
-![alt text](./images/image2.png)
-![alt text](./images/image3.png)
+![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/29182bd9-592c-4952-a434-51b8a32ee04c)
+![image](https://github.com/Muhansrc/weigui_scan/assets/128204479/470118ff-2cbd-49bf-8724-e03ba6485482)
+
 
 ### 后续更新
 1. 匹配查询机制,多次查询得到ip被ban的提示，然后自动更换代理地址
 2. 全部查询完之后从excal中提取所有存在备案域名的Webtitle
+3. 增加更多第三方接口，提高检测正确率
+4. 适配已存在的官方检测接口，避免出现冗余数据查询
